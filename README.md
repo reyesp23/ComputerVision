@@ -16,7 +16,8 @@ Kernel Size: 9
 ## Image contributing High Frequencies
 
 The bug
-<img src="./vw.jpg" width="750">
+
+<img src="./beetle.jpg" width="750">
 
 ## High Pass Filter parameters
 Sigma: 3
