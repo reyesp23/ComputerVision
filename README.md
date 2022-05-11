@@ -7,4 +7,4 @@ Collection of Image Processing projects
 
 [III - Spatial Transformations](IP-3-SpatialTransformations/)
 
-
+[IV - Image Frequencies](IP-4-ImageFrequencies/)
