@@ -1,3 +1,3 @@
 # Panorama Stitching
 
-<img src="panorama.jpg" width="500">
+<img src="panorama.jpg" width="1000">
