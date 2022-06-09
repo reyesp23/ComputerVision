@@ -1,5 +1,5 @@
-# Image Processing
-Collection of Image Processing projects
+# Computer Vision
+Collection of Computer Vision and Image Processing projects
 
 [I - Histogram Equalization](IP-1-HistogramEqualization/)
 
